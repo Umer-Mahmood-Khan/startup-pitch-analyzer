@@ -2,7 +2,7 @@
 
 A smart tool to analyze your startup idea using **HyDE (Hypothetical Document Embeddings)** + LLMs, then match it to startup categories using **FAISS** vector search.
 
-![App Screenshot](screenshots/ui-demo.png)
+![App Screenshot](screenshots/screencapture-10-19-10-157-8501-2025-06-19-18_23_36.png)
 
 ---
 
@@ -17,7 +17,7 @@ Traditional **RAG (Retrieval-Augmented Generation)** retrieves documents based o
 
 🔎 This dramatically improves **context relevance**, especially when the original query is vague.
 
-![HyDE vs RAG](screenshots/hyde-vs-rag.gif)
+![HyDE vs RAG](screenshots/1750158885112.gif)
 
 ---
 
